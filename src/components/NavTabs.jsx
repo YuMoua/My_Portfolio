@@ -7,7 +7,7 @@ function NavTabs({ currentPage, handlePageChange }) {
   return (
     
     <ul className="nav nav-tabs">
-      <h1>Anythingwrong</h1>
+      <h1>Youzong Moua's Portfolio</h1>
       <li className="nav-item">
         <a
           href="#home"
