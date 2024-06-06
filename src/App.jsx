@@ -1,5 +1,4 @@
 import PortfolioContainer from "./components/PortfolioContainer";
-import Footer from "./components/Footer";
 
 
 const App = () => {
@@ -7,7 +6,6 @@ return (
     <>
     
 <PortfolioContainer />
-<Footer />
     </>
 )
 }
