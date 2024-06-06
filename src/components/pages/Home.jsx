@@ -1,6 +1,6 @@
 import Music2MeImage from '../../../img/Screenshot 2024-06-05 203021.png';
 import BudgeItImage from '../../../img/Screenshot 2024-06-05 203903.png';
-import MysteryBox from '../../../img/MysteryBox.jpg';
+// import MysteryBox from '../../../img/MysteryBox.jpg';
 
 export default function Home() {
   return (
@@ -29,7 +29,7 @@ export default function Home() {
         need to spendeach month. This application was created with HTML, CSS, Javascript, The javascript FullCalendar, and MYSQL. 
       </p>
       <h2>Third Project: To Be Continued...
-      <img src={MysteryBox} alt="picture of a mysterious unknown box."></img>
+      {/* <img src={MysteryBox} alt="picture of a mysterious unknown box."></img> */}
       </h2>
       <p>
         I am currently working on my third web application project and it will soon be ready in a few days. Stay tuned to see it. 
